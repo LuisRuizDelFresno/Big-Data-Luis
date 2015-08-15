@@ -18,9 +18,10 @@ OBTENER AYUDA
   - Ser lo más concreto posible (versión de sofware, sistema operativo, que quería obtener, que pasos he dado, que es lo que obtuve
 
 GIT & GITHUB
-1. Git es un espacio local en nuestro ordenador donde se trabaja con archivos desde el terminal. Con un sistema de control de versiones. No es necesario tener cuenta en Github ni sincronizar con él, ...
+1. Git es un espacio local en nuestro ordenador donde se trabaja con archivos desde el terminal. 
+   Con un sistema de control de versiones. No es necesario tener cuenta en Github ni sincronizar con él, ...
   - ¿se pueden crear archivos con marckdown desde el terminal? o hay que hacerlos en otro programa (Word, Google doc, ...)?
-  - GitHub sirve para:
+2. GitHub sirve para subirlos a la nube:
     - Tener una copia de de seguridad de los docs en Internet, 
     - Compartir archivos con otros, trabajarlos conjuntamente, 
   - Insertar imagenes del flujo de pull y push
