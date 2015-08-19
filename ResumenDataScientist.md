@@ -27,4 +27,4 @@ GIT & GITHUB
     - Compartir archivos con otros, trabajarlos conjuntamente, 
   - Insertar imagenes del flujo de pull y push
   - 
-  - ![Esquema transito Local <-> Remoto](https://drive.google.com/open?id=0B1tGq3__KT2rX0o4cnV5bE9TLWs)
+  - ![Esquema transito Local <-> Remoto](https://github.com/LuisRuizDelFresno/Big-Data-Luis/issues/1)
