@@ -26,4 +26,5 @@ GIT & GITHUB
     - Tener una copia de de seguridad de los docs en Internet, 
     - Compartir archivos con otros, trabajarlos conjuntamente, 
   - Insertar imagenes del flujo de pull y push
-  - ![Esquema transito Local <-> Remoto](https://github.com/LuisRuizDelFresno/Big-Data-Luis/issues/1)
+![Esquema transito Local <-> Remoto]
+(https://github.com/LuisRuizDelFresno/Big-Data-Luis/issues/1)
