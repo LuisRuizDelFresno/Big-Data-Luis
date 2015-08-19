@@ -1,4 +1,4 @@
-#PROGRAMAS PRINCIPALES A MANEJAR DURANTE EL CURSO:
+##PROGRAMAS PRINCIPALES A MANEJAR DURANTE EL CURSO:
 1. R: la aplicación fundamental con la que se va a trabajar
   - RStudio para presentar resultados, conclusiones, ...
   - Los formatos de archivos que usaremos serán:
