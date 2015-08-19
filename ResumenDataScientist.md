@@ -6,6 +6,7 @@
     - R markdown
 2. Git & Github para compartir datos
 3. Terminal para los comandos de Git
+4. Ayuda para markdown: https://guides.github.com/features/mastering-markdown/
 
 OBTENER AYUDA
 1. Búscala tú mismo: un amigo, Google, StackOverflow, foro del curso
@@ -25,3 +26,5 @@ GIT & GITHUB
     - Tener una copia de de seguridad de los docs en Internet, 
     - Compartir archivos con otros, trabajarlos conjuntamente, 
   - Insertar imagenes del flujo de pull y push
+  - 
+  - ![Esquema transito Local <-> Remoto](https://drive.google.com/open?id=0B1tGq3__KT2rX0o4cnV5bE9TLWs)
