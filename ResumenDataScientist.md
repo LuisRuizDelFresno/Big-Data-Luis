@@ -23,8 +23,9 @@ GIT & GITHUB
    Con un sistema de control de versiones. No es necesario tener cuenta en Github ni sincronizar con él, ...
   - ¿se pueden crear archivos con marckdown desde el terminal? o hay que hacerlos en otro programa (Word, Google doc, ...)?
 2. GitHub sirve para subirlos a la nube:
-    - Tener una copia de de seguridad de los docs en Internet, 
-    - Compartir archivos con otros, trabajarlos conjuntamente, 
+  - Tener una copia de de seguridad de los docs en Internet, 
+  - Compartir archivos con otros, trabajarlos conjuntamente, 
   - Insertar imagenes del flujo de pull y push
+
 ![Esquema transito Local <-> Remoto]
 (https://github.com/LuisRuizDelFresno/Big-Data-Luis/issues/1)
